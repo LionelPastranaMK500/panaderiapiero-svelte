@@ -72,4 +72,4 @@ Snippets: Si ves un {@render ...}, es un snippet de Svelte. Úsalos para reutili
 
 Estilos: Si una clase CSS no parece aplicarse, recuerda que los estilos en Svelte son locales. Usa :global(.tu-clase) si necesitas afectar a elementos fuera del componente.
 
-Nota del mentor: "En este nivel, no se te paga por escribir código, se te paga por resolver problemas. Si el código compila, vas a mitad de camino. Si el usuario siente que la página vuela, entonces has terminado tu trabajo."
+Nota del mentor: "En este nivel, Si el código compila, vas a mitad de camino. Si el usuario siente que la página vuela, entonces has terminado tu trabajo."
