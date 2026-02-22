@@ -2,7 +2,7 @@
 
 ¡Bienvenida al equipo! Si estás leyendo esto, es porque hemos dejado atrás la arquitectura pesada de React para mudarnos a SvelteKit 5.
 
-No te equivoques: Svelte no es solo "otro framework". Es un compilador. Aquí no "renderizamos" componentes sobre la marcha usando un Virtual DOM costoso; aquí generamos código optimizado que corre directamente sobre el metal del navegador. El rendimiento es nuestra moneda de cambio y el código limpio es nuestra ley.
+No te equivoques: Svelte no es solo "otro framework". Es un compilador. Aquí no "renderizamos" componentes sobre la marcha usando un Virtual DOM costoso; aquí generamos código optimizado que corre directamente sobre el metal del navegador. El rendimiento es nuestra moneda de cambio y el código limpio es nuestra ley.HOLI
 
 El gerente es exigente y los tiempos en producción son cortos. Este repositorio es tu base de operaciones. Tu trabajo no es solo mantenerlo, es dominarlo y romperlo para entender cómo funciona.
 
