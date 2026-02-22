@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-noise {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  opacity: 0.03;
+  pointer-events: none;
+  background-image: url("https://grains-res.cloudinary.com/image/upload/v1612803362/noise_p0onbk.png");
+}
